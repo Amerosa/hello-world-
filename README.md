@@ -1,2 +1,2 @@
 # hello-world-
-Let get work done 
+Hi, I like programming! 
